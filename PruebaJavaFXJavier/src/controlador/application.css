@@ -1,0 +1,12 @@
+.estiloboton2{
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white;
+
+}
+
+.mytitle{
+	-fx-font-family: "HipsterishFontNormal";
+	-fx-text-fill: #008080;
+	-fx-font-size: 25;
+}
